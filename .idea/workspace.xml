@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b59f8718-ad31-41aa-8f49-3caeb06cdbc2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jpb/jpb-settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThirdSemesterExercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BackendMay.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/PreExam/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise1/Questions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise2/Controllers/DogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise2/DTOs/DogDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise2/Demo.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise3/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise3/AnimalDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise3/AnimalHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise3/Appointment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise3/AppointmentDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise3/AppointmentHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise3/Demo.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Application/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Application/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Controllers/HotelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Controllers/HotelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Controllers/ISecurityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Controllers/ISecurityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Controllers/RoomController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Controllers/RoomController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Controllers/SecurityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Controllers/SecurityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DAOs/AbstractDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/DAOs/AbstractDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DAOs/HotelDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/DAOs/HotelDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DAOs/ISecurityDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/DAOs/ISecurityDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DAOs/InterfaceDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/DAOs/InterfaceDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DAOs/RoomDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/DAOs/RoomDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DAOs/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/DAOs/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DTOs/HotelDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/DTOs/HotelDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DTOs/RoomDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/DTOs/RoomDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DTOs/TokenDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/DTOs/TokenDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DTOs/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/DTOs/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Exceptions/ApiException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Exceptions/ApiException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Exceptions/NotAuthorizedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Exceptions/NotAuthorizedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Persistence/HibernateConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Persistence/HibernateConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Persistence/Model/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Persistence/Model/Hotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Persistence/Model/ISecurityUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Persistence/Model/ISecurityUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Persistence/Model/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Persistence/Model/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Persistence/Model/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Persistence/Model/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Persistence/Model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Persistence/Model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/ReST/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/ReST/ApplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Requests/Request.http" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Requests/Request.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Routes/RoomRoute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Routes/RoomRoute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Routes/Route.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Routes/Route.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Routes/RouteHotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Routes/RouteHotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Routes/RouteUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project/Routes/RouteUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/FridayReview/Demo.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/FridayReview/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/FridayReview/Review.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/SchoolExercises/Day1/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/SchoolExercises/Day1/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/SchoolExercises/Day1/Joke.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/SchoolExercises/Day1/demo.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/SchoolExercises/Day2/ContextDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week10Year2024/SchoolExercises/Day2/Demo.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week11Year2024/Day1/Exercise1/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week11Year2024/Day2/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week11Year2024/FridayReview/Review.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week11Year2024/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week12Year2024/Day1/Exercise1/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week12Year2024/Day2/Exercise2/TDDExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week12Year2024/FridayReview/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week12Year2024/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise3/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise4/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise6/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise7/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise7/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise8/DataStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise8/FileStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise8/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise8/MemoryStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise8/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise9/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise9/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/FridayReview/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week5Year2024/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise1/Media.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise1/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise1/Movie1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise1/MovieController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise2/JSON.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise2/Part1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise2/account.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise5/AddingNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise7/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/FridayReview/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/SchoolExercises/jokeExercise/Joke.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week6Year2024/SchoolExercises/jokeExercise/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day1/Exercise1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day1/Exercise1/Unicorn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day1/Exercise1/UnicornDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day1/Exercise2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day1/Exercise2/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise3/HibernateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise3/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise3/PointDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise4/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise5/JPAStudentDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise5/Student1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise5/StudentDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day3/Exercise6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day3/Exercise6/Package.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/Day3/Exercise6/PackageDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/FridayReview/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/HibernateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/SchoolExercises/Day1/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/SchoolExercises/Day1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/SchoolExercises/Day1/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/SchoolExercises/Day2/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week7Year2024/SchoolExercises/Day2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/DolphinDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/Fee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/HibernateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/Note.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/PersonDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/PersonDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Config/HibernateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Dao/DriverDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Dao/IDriverDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Dao/IWasteTruckDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Dao/WasteTruckDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Model/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Model/WasteTruck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/DAO/StudentDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/DAO/StudentDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/DAO/StudentInfoDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/HibernateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/Populate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/Semester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day3/HibernateConfigg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day3/Location.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day3/Package.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day3/PackageDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day3/Shipment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/Day3/ShipmentDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/FridayReview/Carshop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/CodeAlongWithJonVideos/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/CodeAlongWithJonVideos/Fee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/CodeAlongWithJonVideos/HibernateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/CodeAlongWithJonVideos/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/CodeAlongWithJonVideos/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/CodeAlongWithJonVideos/PersonDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/CodeAlongWithJonVideos/PersonEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/Day1/OneToOneExample/HibernateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/Day1/OneToOneExample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/Day1/OneToOneExample/Passport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/Day1/OneToOneExample/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/RefactorHibernate/HibernateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/RefactorHibernate/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdSemesterExercises/Backend/Week9Year2024/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/AppRestTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DAOs/HotelDAOTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DAOs/RoomDAOTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ThirdSemesterExercises/Backend/Week12Year2024/Day2/Exercise2/TDDExerciseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise1/MovieControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise3/PointDAOTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ThirdSemesterExercises/Backend/Week7Year2024/Day3/Exercise6/PackageDAOTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/DolphinDAOTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Dao/DriverDAOImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Dao/WasteTruckDAOImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/DAO/StudentDAOImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ThirdSemesterExercises/Backend/Week8Year2024/Day3/PackageDAOTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ThirdSemesterExercises/Backend/Week8Year2024/Day3/ShipmentDAOTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise2/Controllers/DogController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise2/DTOs/DogDTO$Gender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise2/DTOs/DogDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise3/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise3/AnimalDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise3/AnimalHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise3/Appointment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise3/AppointmentDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise3/AppointmentHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day1/Exercise3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Application/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Controllers/HotelController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Controllers/ISecurityController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Controllers/RoomController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Controllers/SecurityController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DAOs/AbstractDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DAOs/HotelDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DAOs/ISecurityDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DAOs/InterfaceDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DAOs/RoomDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DAOs/UserDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DTOs/HotelDTO$HotelDTOBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DTOs/HotelDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DTOs/RoomDTO$RoomDTOBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DTOs/RoomDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DTOs/TokenDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/DTOs/UserDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Exceptions/ApiException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Exceptions/NotAuthorizedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Persistence/HibernateConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Persistence/Model/Hotel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Persistence/Model/ISecurityUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Persistence/Model/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Persistence/Model/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Persistence/Model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/ReST/ApplicationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Routes/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Routes/RoomRoute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Routes/Route.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Routes/RouteHotel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/Day2/Routes/RouteUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/FridayReview/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/FridayReview/Review.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/SchoolExercises/Day1/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/SchoolExercises/Day1/ApplicationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/SchoolExercises/Day1/Joke.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week10Year2024/SchoolExercises/Day2/ContextDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week11Year2024/FridayReview/Review.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week12Year2024/Day2/Exercise2/TDDExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise1/ArithmeticOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise2/MyTransformingType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise2/MyValidatingType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise3/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise4/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise5/MyTransformingType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day1/Exercise5/MyValidatingType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise6/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise7/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise8/DataStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise8/FileStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise8/MemoryStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise9/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/Day2/Exercise9/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/FridayReview/ArithmeticOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week5Year2024/FridayReview/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise1/Media.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise1/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise1/Movie1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise1/MovieController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise2/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise2/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise2/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise2/CustomerDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day1/Exercise2/JSON.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise4/Main$Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise5/AddingNumbers$TaskToAddCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise5/AddingNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise6/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise7/ActivityToDoDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise7/CatFactsDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise7/ChuckNorrisDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise7/DTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise7/HazardJokeDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise7/KanyeWestDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise7/MegaDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise7/PokemonDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise7/PredictingTheAgeOfAPersonDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise7/RandomDogPictureDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise7/WhatDoesTrumpThinkDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/Day2/Exercise7/YourIPAPIDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/FridayReview/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/FridayReview/Example2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/FridayReview/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/SchoolExercises/jokeExercise/Joke.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week6Year2024/SchoolExercises/jokeExercise/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day1/Exercise1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day1/Exercise1/Unicorn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day1/Exercise1/UnicornDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day1/Exercise2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day1/Exercise2/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise3/HibernateConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise3/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise3/PointDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise4/Person$PersonBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise4/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise5/JPAStudentDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise5/Student1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day2/Exercise5/StudentDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day3/Exercise6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day3/Exercise6/Package$deliveryStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day3/Exercise6/Package.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/Day3/Exercise6/PackageDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/FridayReview/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/HibernateConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/SchoolExercises/Day1/Address$Town.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/SchoolExercises/Day1/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/SchoolExercises/Day1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/SchoolExercises/Day1/Person$Gender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/SchoolExercises/Day1/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/SchoolExercises/Day2/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week7Year2024/SchoolExercises/Day2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/DolphinDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/Fee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/HibernateConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/PersonDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise1/PersonDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Config/HibernateConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Dao/DriverDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Dao/IDriverDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Dao/IWasteTruckDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Dao/WasteTruckDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Model/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day1/Exercise2/Model/WasteTruck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/DAO/StudentDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/DAO/StudentDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/DAO/StudentInfoDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/HibernateConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/Populate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/Semester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day2/Exercise3/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day3/HibernateConfigg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day3/Location.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day3/Package$deliveryStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day3/Package.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day3/PackageDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day3/Shipment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/Day3/ShipmentDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/FridayReview/Carshop$Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/FridayReview/Carshop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/FridayReview/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/CodeAlongWithJonVideos/Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/CodeAlongWithJonVideos/Fee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/CodeAlongWithJonVideos/HibernateConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/CodeAlongWithJonVideos/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/CodeAlongWithJonVideos/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/CodeAlongWithJonVideos/PersonDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/CodeAlongWithJonVideos/PersonEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/Day1/OneToOneExample/HibernateConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/Day1/OneToOneExample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/Day1/OneToOneExample/Passport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/Day1/OneToOneExample/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/RefactorHibernate/HibernateConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThirdSemesterExercises/Backend/Week8Year2024/SchoolExercises/RefactorHibernate/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ThirdSemesterExercises.Backend.Week6Year2024.Day1.Exercise1.MovieControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ThirdSemesterExercises.Backend.Week6Year2024.Day1.Exercise1.MovieControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ThirdSemesterExercises.Backend.Week7Year2024.Day2.Exercise3.PointDAOTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ThirdSemesterExercises.Backend.Week7Year2024.Day2.Exercise3.PointDAOTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ThirdSemesterExercises.Backend.Week7Year2024.Day3.Exercise6.PackageDAOTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ThirdSemesterExercises.Backend.Week7Year2024.Day3.Exercise6.PackageDAOTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ThirdSemesterExercises.Backend.Week8Year2024.Day1.Exercise1.DolphinDAOTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ThirdSemesterExercises.Backend.Week8Year2024.Day1.Exercise1.DolphinDAOTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ThirdSemesterExercises.Backend.Week8Year2024.Day1.Exercise2.Dao.DriverDAOImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ThirdSemesterExercises.Backend.Week8Year2024.Day1.Exercise2.Dao.DriverDAOImplTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ThirdSemesterExercises.Backend.Week8Year2024.Day1.Exercise2.Dao.WasteTruckDAOImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ThirdSemesterExercises.Backend.Week8Year2024.Day1.Exercise2.Dao.WasteTruckDAOImplTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ThirdSemesterExercises.Backend.Week6Year2024.Day1.Exercise1.MovieControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ThirdSemesterExercises.Backend.Week6Year2024.Day1.Exercise1.MovieControllerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ThirdSemesterExercises.Backend.Week7Year2024.Day2.Exercise3.PointDAOTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ThirdSemesterExercises.Backend.Week7Year2024.Day2.Exercise3.PointDAOTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ThirdSemesterExercises.Backend.Week7Year2024.Day3.Exercise6.PackageDAOTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ThirdSemesterExercises.Backend.Week7Year2024.Day3.Exercise6.PackageDAOTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ThirdSemesterExercises.Backend.Week8Year2024.Day1.Exercise1.DolphinDAOTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ThirdSemesterExercises.Backend.Week8Year2024.Day1.Exercise1.DolphinDAOTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ThirdSemesterExercises.Backend.Week8Year2024.Day1.Exercise2.Dao.DriverDAOImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ThirdSemesterExercises.Backend.Week8Year2024.Day1.Exercise2.Dao.DriverDAOImplTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ThirdSemesterExercises.Backend.Week8Year2024.Day1.Exercise2.Dao.WasteTruckDAOImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ThirdSemesterExercises.Backend.Week8Year2024.Day1.Exercise2.Dao.WasteTruckDAOImplTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ThirdSemesterExercises.Backend.Week8Year2024.Test.PersonDAOTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ThirdSemesterExercises.Backend.Week8Year2024.Test.PersonDAOTest.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2fxfhBYq0f5RHunS5KevNEMY8Jl" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/hannisalman/Downloads/BackendMay",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project.Application.App" />
+      <module name="BackendMay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project.Application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b59f8718-ad31-41aa-8f49-3caeb06cdbc2" name="Changes" comment="" />
+      <created>1714747767083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714747767083</updated>
+      <workItem from="1714747770576" duration="643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

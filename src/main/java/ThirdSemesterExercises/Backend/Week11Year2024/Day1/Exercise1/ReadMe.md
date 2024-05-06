@@ -1,1 +1,0 @@
-Link til testmappen: https://github.com/AhmadAlkaseb/ThirdSemesterExercises/tree/main/src/test/java/ThirdSemesterExercises/Backend/Week10Year2024/Day2
